@@ -1,4 +1,6 @@
+PART TWO: (CodePen Link)
 https://codepen.io/calvarez2146/full/JjoapXa
+
 
 Review questions to Submit in today's file firt-lastname.txt
 
@@ -99,6 +101,9 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
 	- add, commit, push files back to GitHub on your branch
 	- submit a pull request with your TL as the reviewer
 	- TL reviews it and merges it with the school repo
+
+
+
 
 Stretch Questions
 
